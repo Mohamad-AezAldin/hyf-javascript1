@@ -1,10 +1,8 @@
 // Ex 1 
-let ar = "Salam Alaycom" ,   // arabic
-    en = "Hello World" ,    // english
-    du = "Hello Wereld" ,       // dutch
-    fr = "Salut le monde" ;     // france
- 
-console.log(ar + "\n", en + "\n", du + "\n", fr);
+console.log("Salam Alaycom");       // arabic
+console.log("Hello World");         // english
+console.log("Hello Wereld") ;       // dutch
+console.log("Salut le monde") ;     // france
 
 //Ex 2
 
