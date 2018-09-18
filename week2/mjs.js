@@ -45,13 +45,13 @@ console.log(b);
 // Ex 6 Array
 
 let cars = []                                                      //6.1
-console.log("the value of the cars array contain cars names");     //6.2
+console.log("the value of the cars array is undefined");     //6.2
 console.log(cars);                                                 //6.3
 
 let cuteAnimals = ['Cat', 'Bunny', 'Hamster', 'Panda'];            //6.4
 console.log(cuteAnimals);                                          //6.5
 
-cuteAnimals[cuteAnimals.length] = 'baby pig' ;                     //6.6
+cuteAnimals.push('baby pig') ;                     //6.6
 console.log(cuteAnimals);                                          //6.7
 
 //Ex 7  More Strings
